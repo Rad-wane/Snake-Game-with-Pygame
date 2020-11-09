@@ -1,6 +1,6 @@
 ### Snake game with Python
 
-Dev. by : Radwane Ait Ouhani
+Dev. by : Rad-wane
 
 This game is OOP based with 2 classes:
 * 
